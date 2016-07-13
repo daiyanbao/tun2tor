@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error",""]],"macro":[["try_log!",""]],"mod":[["ffi","A module exposing a C FFI for `tun2tor`."]],"struct":[["TunIf","A virtual tunnel interface"]],"type":[["Result",""]]});
